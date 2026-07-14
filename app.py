@@ -1,7 +1,7 @@
 import streamlit as st 
 import pandas as pd 
-import altair as alt # new
-import plotly.express as px # new 
+import altair as alt
+import plotly.express as px 
 
 @st.cache_data
 def load_data():
