@@ -1,0 +1,5 @@
+streamlit
+pandas
+altair
+plotly==6.9.0
+openpyxl
