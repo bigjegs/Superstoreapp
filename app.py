@@ -171,6 +171,9 @@ try:
         )
         st.altair_chart(ship_chart, use_container_width=True)
 
+    # summary
+    st.header("Summary")    
+    st.write()
 
 
 
